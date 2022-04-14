@@ -1,0 +1,10 @@
+C:\Users\julia\source\repos\testing_figures\testing_figures\bin\Debug\testing_figures.exe.config
+C:\Users\julia\source\repos\testing_figures\testing_figures\bin\Debug\testing_figures.exe
+C:\Users\julia\source\repos\testing_figures\testing_figures\bin\Debug\testing_figures.pdb
+C:\Users\julia\source\repos\testing_figures\testing_figures\obj\Debug\testing_figures.csprojAssemblyReference.cache
+C:\Users\julia\source\repos\testing_figures\testing_figures\obj\Debug\testing_figures.Form1.resources
+C:\Users\julia\source\repos\testing_figures\testing_figures\obj\Debug\testing_figures.Properties.Resources.resources
+C:\Users\julia\source\repos\testing_figures\testing_figures\obj\Debug\testing_figures.csproj.GenerateResource.cache
+C:\Users\julia\source\repos\testing_figures\testing_figures\obj\Debug\testing_figures.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\testing_figures\testing_figures\obj\Debug\testing_figures.exe
+C:\Users\julia\source\repos\testing_figures\testing_figures\obj\Debug\testing_figures.pdb
